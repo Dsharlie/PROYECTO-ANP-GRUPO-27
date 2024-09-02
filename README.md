@@ -1,4 +1,4 @@
-🚀 PROYECTO ANP - GRUPO 27 🚀
+🦾 PROYECTO ANP - GRUPO 27 👨🏿‍💻
 
 ¡Bienvenido a nuestro proyecto de análisis de datos para el Censo de Habitantes de Calle! Este repositorio contiene todo lo que necesitas saber sobre nuestro enfoque para abordar la problemática de la población sin hogar en Colombia. Desde la exploración inicial de datos hasta las propuestas metodológicas y los resultados obtenidos 🌍📊
 

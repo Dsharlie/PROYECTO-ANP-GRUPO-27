@@ -17,11 +17,11 @@ https://microdatos.dane.gov.co/index.php/catalog/720/data-dictionary/F3?file_nam
 
 Documento Entrega: 📋
 
-Esta carpeta incluye el documento final de entrega donde detallaremos nuestra propuesta metodológica y nuestros hallazgos más relevantes. Aquí puedes leer sobre el enfoque combinado de PCA y K-means que adoptamos, y cómo estas técnicas nos permitieron obtener una visión más clara y profunda de las condiciones de la población sin hogar en Colombia. 🎯
+Esta carpeta incluye el documento final de entrega donde detallaremos nuestra propuesta metodológica y nuestros hallazgos más relevantes. Aquí puedes leer sobre el enfoque combinado de PCA, K-means y algoritmo jerárquico que adoptamos, y cómo estas técnicas nos permitieron obtener una visión más clara y profunda de las condiciones de la población sin hogar en Colombia. 🎯
 
 📊 Descripción del Proyecto
 
-Este proyecto busca analizar las condiciones de vida de la población sin hogar en Colombia utilizando técnicas avanzadas de análisis de datos. Aplicamos el Análisis de Componentes Principales (PCA) para reducir la dimensionalidad de nuestros datos y posteriormente el algoritmo K-means para segmentar a la población en grupos homogéneos.
+Este proyecto busca analizar las condiciones de vida de la población sin hogar en Colombia utilizando técnicas avanzadas de análisis de datos. Aplicamos el Análisis de Componentes Principales (PCA) para reducir la dimensionalidad de nuestros datos y posteriormente los algoritmos de agrupamiento para segmentar a la población en grupos homogéneos.
 
 Nuestro objetivo es identificar patrones significativos y relaciones entre las variables que afectan a esta población, proporcionando así información valiosa para el diseño de políticas públicas más efectivas.
 
@@ -31,7 +31,7 @@ Exploración de Datos: Comenzamos con una exploración detallada de los datos, a
 
 Reducción de Dimensionalidad con PCA: implementaremos PCA para reducir la cantidad de variables a considerar, manteniendo al mismo tiempo la mayor cantidad de información posible. 🧠
 
-Segmentación con K-means: Finalmente, utilizaremos K-means para agrupar a la población en segmentos significativos, lo que nos permitió identificar subgrupos dentro de la población sin hogar con características similares. 🔗
+Segmentación con K-means: Finalmente, utilizaremos K-means para agrupar a la población en segmentos significativos, lo que nos permitió identificar subgrupos dentro de la población sin hogar con características similares. Adicionalmente, se analizaron segmentos jerárquicamente relacionados 🔗
 
 🚀 ¿Cómo Empezar?
 
